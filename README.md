@@ -1,3 +1,6 @@
+For the official way to do this (with musl) see
+https://github.com/rust-lang/rust/blob/master/src/doc/trpl/advanced-linking.md
+
 # Rust glibc static linking
 
 By default, all Rust programs on Linux will link to the system libc along with
